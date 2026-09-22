@@ -122,6 +122,7 @@ import {
 } from "./data/localStorage";
 
 import { loadFilesFromFirebase } from "./data/firebase";
+import { getDevLibraryItems } from "./data/devLibraryItems";
 import {
   LibraryIndexedDBAdapter,
   LibraryLocalStorageMigrationAdapter,
@@ -416,6 +417,18 @@ const ExcalidrawWrapper = () => {
     // TODO maybe remove this in several months (shipped: 24-03-11)
     migrationAdapter: LibraryLocalStorageMigrationAdapter,
   });
+
+  // dev-only: seed the library sidebar with dummy items so the item grid
+  // renders without having to install a library first
+  useEffect(() => {
+    if (!isDevEnv() || !excalidrawAPI) {
+      return;
+    }
+    excalidrawAPI.updateLibrary({
+      libraryItems: getDevLibraryItems(),
+      merge: true,
+    });
+  }, [excalidrawAPI]);
 
   const [, forceRefresh] = useState(false);
 
