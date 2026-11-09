@@ -315,7 +315,7 @@
     "selection": "Selection",
     "lasso": "Lasso selection",
     "image": "Insert image",
-    "rectangle": "Rectangle",
+    "rectangle": "Draw a rectangle",
     "diamond": "Diamond",
     "ellipse": "Ellipse",
     "arrow": "Arrow",
