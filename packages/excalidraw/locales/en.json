@@ -318,7 +318,7 @@
     "rectangle": "Rectangle",
     "diamond": "Diamond",
     "ellipse": "Ellipse",
-    "arrow": "Arrow",
+    "arrow": "Draw an arrow",
     "line": "Line",
     "freedraw": "Draw",
     "text": "Text",
