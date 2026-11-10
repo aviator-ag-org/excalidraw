@@ -314,7 +314,7 @@
   "toolBar": {
     "selection": "Selection",
     "lasso": "Lasso selection",
-    "image": "Insert image",
+    "image": "Insert an image",
     "rectangle": "Rectangle",
     "diamond": "Diamond",
     "ellipse": "Ellipse",
