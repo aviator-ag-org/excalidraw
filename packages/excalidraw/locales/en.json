@@ -314,7 +314,7 @@
   "toolBar": {
     "selection": "Selection",
     "lasso": "Lasso selection",
-    "image": "Insert image",
+    "image": "Image",
     "rectangle": "Rectangle",
     "diamond": "Diamond",
     "ellipse": "Ellipse",
@@ -326,7 +326,7 @@
     "lock": "Keep selected tool active after drawing",
     "penMode": "Pen mode - prevent touch",
     "link": "Add / Update link for a selected shape",
-    "eraser": "Eraser",
+    "eraser": "Erase",
     "frame": "Frame tool",
     "magicframe": "Wireframe to code",
     "embeddable": "Embed",
