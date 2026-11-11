@@ -332,7 +332,7 @@
     "embeddable": "Web Embed",
     "laser": "Laser",
     "autoshape": "Draw to shape",
-    "hand": "Hand (panning tool)",
+    "hand": "Hand",
     "extraTools": "More tools",
     "mermaidToExcalidraw": "Mermaid to Excalidraw",
     "convertElementType": "Toggle shape type"
