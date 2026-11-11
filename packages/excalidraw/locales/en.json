@@ -312,7 +312,7 @@
     "copyToSystemClipboardFailed": "Couldn't copy to clipboard."
   },
   "toolBar": {
-    "selection": "Selection",
+    "selection": "Select",
     "lasso": "Lasso selection",
     "image": "Insert image",
     "rectangle": "Rectangle",
