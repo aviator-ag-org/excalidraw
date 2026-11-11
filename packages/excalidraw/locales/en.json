@@ -334,7 +334,7 @@
     "autoshape": "Draw to shape",
     "hand": "Hand (panning tool)",
     "extraTools": "More",
-    "mermaidToExcalidraw": "Mermaid to Excalidraw",
+    "mermaidToExcalidraw": "Mermaid",
     "convertElementType": "Toggle shape type"
   },
   "element": {
