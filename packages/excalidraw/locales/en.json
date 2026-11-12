@@ -320,7 +320,7 @@
     "ellipse": "Ellipse",
     "arrow": "Arrow",
     "line": "Line",
-    "freedraw": "Draw",
+    "freedraw": "Pen",
     "text": "Text box",
     "library": "Library",
     "lock": "Keep selected tool active after drawing",
