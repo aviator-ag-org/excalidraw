@@ -321,7 +321,7 @@
     "arrow": "Arrow",
     "line": "Line",
     "freedraw": "Pen",
-    "text": "Text box",
+    "text": "Text tool",
     "library": "Library",
     "lock": "Keep selected tool active after drawing",
     "penMode": "Pen mode - prevent touch",
