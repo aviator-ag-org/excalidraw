@@ -586,7 +586,7 @@
   "welcomeScreen": {
     "app": {
       "center_heading": "Your drawings stay in this browser only.",
-      "center_heading_line2": "Browser storage can be cleared unexpectedly.",
+      "center_heading_line2": "Your browser may clear its storage at any time.",
       "center_heading_line3": "Save your work to a file regularly to avoid losing it.",
       "center_heading_plus": "Did you want to go to the Excalidraw+ instead?",
       "menuHint": "Export, preferences, languages, ..."
