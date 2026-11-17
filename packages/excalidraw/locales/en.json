@@ -587,7 +587,7 @@
     "app": {
       "center_heading": "Your drawings stay in this browser only.",
       "center_heading_line2": "Your browser may clear its storage at any time.",
-      "center_heading_line3": "Save to a file often so nothing gets lost.",
+      "center_heading_line3": "Save to a file often, so nothing gets lost.",
       "center_heading_plus": "Did you want to go to the Excalidraw+ instead?",
       "menuHint": "Export, preferences, languages, ..."
     },
