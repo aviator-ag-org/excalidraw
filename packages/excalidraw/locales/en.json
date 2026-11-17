@@ -313,7 +313,7 @@
   },
   "toolBar": {
     "selection": "Selection",
-    "lasso": "Lasso selection",
+    "lasso": "Lasso select",
     "image": "Insert image",
     "rectangle": "Rectangle",
     "diamond": "Diamond",
